@@ -1,0 +1,14 @@
+C:\BIT\HospitalAssignment\bin\Debug\net7.0\HospitalAssignment.exe
+C:\BIT\HospitalAssignment\bin\Debug\net7.0\HospitalAssignment.deps.json
+C:\BIT\HospitalAssignment\bin\Debug\net7.0\HospitalAssignment.runtimeconfig.json
+C:\BIT\HospitalAssignment\bin\Debug\net7.0\HospitalAssignment.dll
+C:\BIT\HospitalAssignment\bin\Debug\net7.0\HospitalAssignment.pdb
+C:\BIT\HospitalAssignment\obj\Debug\net7.0\HospitalAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\BIT\HospitalAssignment\obj\Debug\net7.0\HospitalAssignment.AssemblyInfoInputs.cache
+C:\BIT\HospitalAssignment\obj\Debug\net7.0\HospitalAssignment.AssemblyInfo.cs
+C:\BIT\HospitalAssignment\obj\Debug\net7.0\HospitalAssignment.csproj.CoreCompileInputs.cache
+C:\BIT\HospitalAssignment\obj\Debug\net7.0\HospitalAssignment.dll
+C:\BIT\HospitalAssignment\obj\Debug\net7.0\refint\HospitalAssignment.dll
+C:\BIT\HospitalAssignment\obj\Debug\net7.0\HospitalAssignment.pdb
+C:\BIT\HospitalAssignment\obj\Debug\net7.0\HospitalAssignment.genruntimeconfig.cache
+C:\BIT\HospitalAssignment\obj\Debug\net7.0\ref\HospitalAssignment.dll
